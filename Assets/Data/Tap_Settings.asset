@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4da8352b95444c697565db09aa60b8, type: 3}
+  m_Name: Tap_Settings
+  m_EditorClassIdentifier: 
+  BaseTapEnergyValue: 1
+  BaseTapReward: 10
+  BaseTapModificator: 1
+  TapMultiplier: 60
+  TapModificatorTime: 0.5
